@@ -5,7 +5,7 @@ import { useState } from "react";
 // components
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
-import UserList from "./components/userlist/UserList";
+import UserList from "./components/userList/UserList";
 import NewUserForm from "./components/newuser/NewUserForm.jsx";
 
 function App() {
